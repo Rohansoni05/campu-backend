@@ -1,5 +1,13 @@
-psycopg2-binary
 fastapi
 uvicorn[standard]
-psycopg2-binary
+
 sqlalchemy
+psycopg2-binary
+
+pydantic
+pydantic-settings
+
+bcrypt
+python-jose[cryptography]
+
+alembic
